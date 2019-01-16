@@ -1,0 +1,12 @@
+.hg
+.vs
+*ncrunch*
+*.pfx
+*.snk
+Debug
+Release
+*.user
+*.csproj
+*.sln
+*.cache
+*.csproj.*
