@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="VersioningMMRB.a80bfffc-fa2a-4edd-ac9c-07df60b52622" Version="0.1.1" Language="en-US" Publisher="Stoic Dreams" />
         <DisplayName>Versioning Major.Minor.Release.Build</DisplayName>
-        <Description xml:space="preserve">Build tool that makes it easier to increment project version numbers and commit changes to Git or Mercurial after each build.
+        <Description xml:space="preserve">Helper extension for C# projects that makes it easier to increment project version numbers and commit changes to Git or Mercurial after each build.
 This extension utilizes a Major.Minor.Release.Build syntax for version numbers.</Description>
         <Icon>Logo320.png</Icon>
     </Metadata>

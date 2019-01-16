@@ -1,6 +1,6 @@
 ﻿# Versioning Major.Minor.Release.Build
 
-This Visual Studio extension allows easier incrementation of version numbering, specific to a Major.Minor.Release.Build numbering system.
+This Visual Studio extension allows easier incrementation of version numbering, specific to C# projects and a Major.Minor.Release.Build syntax numbering system.
 * Successfull builds will always increment the Build number.
 * Project context menu to increment Major, Minor, and Release numbers; Which will also reset any numbers that follow back to 0.
 * Auto commit changes to Git or Mercurial repos after applying version update.
@@ -23,4 +23,4 @@ We are not currently accepting contributions to this project. But if you'd like 
 
 ## License
 
-This project is [public domain](unlicense.md)
+This project is [public domain](docs/unlicense.md)
