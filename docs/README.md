@@ -23,4 +23,4 @@ We are not currently accepting contributions to this project. But if you'd like 
 
 ## License
 
-This project is [public domain](docs/unlicense.md)
+This project is [public domain](https://github.com/StoicDreams/VersioningMMRB/blob/master/docs/LICENSE.md)
